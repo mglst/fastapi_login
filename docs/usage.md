@@ -46,7 +46,7 @@ can be used as a dependency.
 
 !!! warning
     By default the token is expected to be in the ``Authorization`` header
-    value fo the request and of the following format:
+    value for the request and of the following format:
     ```
     Bearer <token>
     ```
